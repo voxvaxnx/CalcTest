@@ -23,7 +23,7 @@ class Calcul {
                 this.rezult = vol1 / vol2;
                 break;
             default:
-                System.out.println("Исключение: Не верный знак (Допустимо: +, -, *, / )");
+                System.out.println("Исключение: Неверный знак (Допустимо: +, -, *, / )");
                 System.exit(0);
         }
 
