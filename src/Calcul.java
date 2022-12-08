@@ -27,7 +27,7 @@ class Calcul {
                 System.exit(0);
         }
 
-        this.lastText = this.rezult;
+        this.lastText = (int)this.rezult;
     }
 }
 
