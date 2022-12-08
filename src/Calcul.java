@@ -2,7 +2,7 @@ class Calcul {
     int vol1;
     int vol2;
     int lastText;
-    int rezult;
+    double rezult;
     String znak;
 
     Calcul(int vol1, String znak, int vol2) {
